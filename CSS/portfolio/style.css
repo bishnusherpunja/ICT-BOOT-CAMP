@@ -1,0 +1,22 @@
+.center{
+    color: red;
+    text-align: center;
+
+}
+h3{
+    color: brown;
+}
+table,th,td{
+    text-align: center;
+    border: 1px solid red;
+    background-color:powderblue;
+
+}
+p{
+    color: blueviolet;
+    background-color: pink;
+}
+
+
+
+
